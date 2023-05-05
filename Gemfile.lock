@@ -76,6 +76,7 @@ GEM
     debug (1.7.2)
       irb (>= 1.5.0)
       reline (>= 0.3.1)
+    diffy (3.4.2)
     dotenv (2.8.1)
     dotenv-rails (2.8.1)
       dotenv (= 2.8.1)
@@ -176,6 +177,7 @@ DEPENDENCIES
   bootsnap
   chunky_png
   debug
+  diffy
   dotenv-rails
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.3)

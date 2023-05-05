@@ -46,8 +46,9 @@ group :development do
   # gem "spring"
 end
 
-gem 'selenium-webdriver'
-gem 'webdrivers'
-gem 'chunky_png'
+gem "selenium-webdriver"
+gem "webdrivers"
+gem "chunky_png"
+gem "diffy"
 
-gem 'dotenv-rails', groups: [:development, :test]
+gem "dotenv-rails", groups: [:development, :test]
